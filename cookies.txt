@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+redstartview.online	TRUE	/	FALSE	1999999999	PHPSESSID	i39cv9bdhpi08r48v0mvs82cn3
+

@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Feb 2024 21:17:18 at https://redstartview.online/userDash.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://redstartview.online/userDash.php -O1 "C:\My Web Sites\red street 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/faq.php (from https://redstartview.online/index.php)
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/popper.js (from https://redstartview.online/js/vendor/bootstrap.min.js)
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/a (from https://connect.facebook.net/en_US/fbevents.js)
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+21:17:41	Error: 	"Not Found" (404) at link https://redstartview.online/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 86 links scanned, 78 files written (5986495 bytes overall) [3685764 bytes received at 160250 bytes/sec], 3722477 bytes transferred using HTTP compression in 50 files, ratio 36%, 21.5 requests per connection
+(7 errors, 0 warnings, 0 messages)
